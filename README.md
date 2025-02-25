@@ -31,4 +31,6 @@ This Terraform configuration sets up a highly available web server infrastructur
 4. The ALB distributes incoming traffic to healthy instances.
 5. The index.html is stored in S3 and downloaded by each instance at startup.
 
+![terraform](https://github.com/user-attachments/assets/8ab20e7a-4ee5-41c2-8c0c-513842d6c2c3)
+
 
